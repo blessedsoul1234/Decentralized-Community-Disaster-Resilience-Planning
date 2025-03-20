@@ -5,3 +5,5 @@ P
  contracts/exercise-tracking.clar,7/e/7e4357815a11c3c474dd6b361b1f47e03985fed3
 O
 tests/exercise-tracking.test.ts,2/8/2874158af7504337eed9d1cd58238b67c47e766d
+W
+'contracts/vulnerability-assessment.clar,a/2/a2dae8dee5b194b4ea5c453f9cfa9ce43da9764d
